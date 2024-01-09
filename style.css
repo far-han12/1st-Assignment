@@ -426,3 +426,75 @@ hr {
   align-items: center;
   margin-left: 140px;
 }
+.main-holiday{
+  margin: auto;
+  width: 1320px;
+  margin-bottom: 120px;
+}
+.upper-div{color: #070211;
+  font-family: Inter;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  text-align: center;
+
+}
+span{
+  color: #F00;
+text-align: center;
+font-family: "Merriweather", serif;
+font-size: 72px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+
+}
+#first{color: #070211;
+  font-family: "Merriweather", serif;
+  font-size: 72px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: normal;
+
+}
+#second{
+  color: rgba(7, 2, 17, 0.60);
+text-align: center;
+font-family: "Inter", sans-serif;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 32px; 
+margin-bottom: 64px;
+margin-top: 28px;
+}
+.mid-div{
+  display: flex;
+  justify-content: right;
+}
+#third{
+  width: 429px;
+height: 433px;
+position: absolute;
+/* right: --150px; */
+}
+#fourth{
+  position: relative;
+  top: 50px;
+  left:-320px;
+  width: 206.841px;
+height: 206.841px;
+
+}
+#fifth{
+  width: 156.602px;
+  height: 208.54px;
+}
+
+
+#sixth{
+  width: 1320px;
+height: 229px;
+margin-top: 10px;
+}
